@@ -53,6 +53,6 @@ Future Work:
 - Develop a Streamlit dashboard for interactive prediction.
 
 Author:
-Chukwuemeka Eugene Obiyo
-Data Scientist | Machine Learning Engineer | Data Visualizer
-praise609@gmail.com 
+- Chukwuemeka Eugene Obiyo
+- Data Scientist | Machine Learning Engineer | Data Visualizer
+- praise609@gmail.com 
