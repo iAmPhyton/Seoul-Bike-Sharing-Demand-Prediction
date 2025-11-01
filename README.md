@@ -9,20 +9,35 @@ To build and evaluate a predictive model that estimates hourly bike rental count
 Dataset Source: UCI Machine Learning Repository – Seoul Bike Sharing Dataset: https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand
 
 Key Features:
+
 | Feature | Description |
+
 | `Date` | Date of observation |
+
 | `Rented Bike Count` | Number of bikes rented per hour (target variable) |
+
 | `Hour` | Hour of the day (0–23) |
+
 | `Temperature(°C)` | Temperature in Celsius |
+
 | `Humidity(%)` | Percentage of humidity |
+
 | `Wind speed (m/s)` | Wind speed |
+
 | `Visibility (10m)` | Visibility distance |
+
 | `Dew point temperature(°C)` | Dew point temperature |
+
 | `Solar Radiation (MJ/m2)` | Solar radiation level |
+
 | `Rainfall(mm)` | Amount of rainfall |
+
 | `Snowfall (cm)` | Amount of snowfall |
+
 | `Seasons` | One of Winter, Spring, Summer, Autumn |
+
 | `Holiday` | Whether it was a holiday or not |
+
 | `Functioning Day` | Whether the system was operating normally |
 
 Tech Stack:
