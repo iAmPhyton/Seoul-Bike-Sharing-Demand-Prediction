@@ -9,7 +9,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 
 import warnings
-warnings.filterwarnings("ignore", category=(FutureWarning, DeprecationWarning))
+warnings.filterwarnings("ignore", category=FutureWarning)
 
 bike_uci = pd.read_csv("day.csv")
 print("bike_uciset loaded successfully!")
@@ -272,4 +272,5 @@ joblib.dump(best_rf, 'best_random_forest_model.pkl')
 joblib.dump(best_gb, 'best_gradient_boosting_model.pkl')
 
 print("Models saved successfully!") 
+
 
